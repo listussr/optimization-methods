@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\University\kurs_3\semestr_1\mo\lab_2\lab_2\Utils.h(55,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\University\kurs_3\semestr_1\mo\lab_2\lab_2\MultiDimensional.h(16,20): warning C4101: z1: неиспользованная локальная переменная
+C:\University\kurs_3\semestr_1\mo\lab_2\lab_2\Utils.h(292): message : выполняется компиляция ссылки на экземпляр шаблон функции "solution gauss_zeidel_<double>(point<double>,double (__cdecl *)(point<double>))"
+C:\University\kurs_3\semestr_1\mo\lab_2\lab_2\MultiDimensional.h(16,16): warning C4101: z0: неиспользованная локальная переменная
+  lab_2.vcxproj -> C:\University\kurs_3\semestr_1\mo\lab_2\x64\Debug\lab_2.exe
